@@ -14,4 +14,4 @@ def download_audio(url):
         ydl.download([url])
 
 # Provide the YouTube video URL to the function
-download_audio('https://www.youtube.com/watch?v=vKjOqUqS0mw')
+download_audio('https://www.youtube.com/watch?v=LJayPgsYTF0')
